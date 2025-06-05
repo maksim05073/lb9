@@ -1,0 +1,14 @@
+C:\Users\ку\Desktop\proga\LB9\LB9_3\bin\Debug\net9.0\LB9_3.exe
+C:\Users\ку\Desktop\proga\LB9\LB9_3\bin\Debug\net9.0\LB9_3.deps.json
+C:\Users\ку\Desktop\proga\LB9\LB9_3\bin\Debug\net9.0\LB9_3.runtimeconfig.json
+C:\Users\ку\Desktop\proga\LB9\LB9_3\bin\Debug\net9.0\LB9_3.dll
+C:\Users\ку\Desktop\proga\LB9\LB9_3\bin\Debug\net9.0\LB9_3.pdb
+C:\Users\ку\Desktop\proga\LB9\LB9_3\obj\Debug\net9.0\LB9_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ку\Desktop\proga\LB9\LB9_3\obj\Debug\net9.0\LB9_3.AssemblyInfoInputs.cache
+C:\Users\ку\Desktop\proga\LB9\LB9_3\obj\Debug\net9.0\LB9_3.AssemblyInfo.cs
+C:\Users\ку\Desktop\proga\LB9\LB9_3\obj\Debug\net9.0\LB9_3.csproj.CoreCompileInputs.cache
+C:\Users\ку\Desktop\proga\LB9\LB9_3\obj\Debug\net9.0\LB9_3.dll
+C:\Users\ку\Desktop\proga\LB9\LB9_3\obj\Debug\net9.0\refint\LB9_3.dll
+C:\Users\ку\Desktop\proga\LB9\LB9_3\obj\Debug\net9.0\LB9_3.pdb
+C:\Users\ку\Desktop\proga\LB9\LB9_3\obj\Debug\net9.0\LB9_3.genruntimeconfig.cache
+C:\Users\ку\Desktop\proga\LB9\LB9_3\obj\Debug\net9.0\ref\LB9_3.dll

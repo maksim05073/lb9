@@ -1,0 +1,14 @@
+C:\Users\ку\Desktop\proga\LB9\LB9_2\obj\Debug\net9.0\LB9_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ку\Desktop\proga\LB9\LB9_2\obj\Debug\net9.0\LB9_2.AssemblyInfoInputs.cache
+C:\Users\ку\Desktop\proga\LB9\LB9_2\obj\Debug\net9.0\LB9_2.AssemblyInfo.cs
+C:\Users\ку\Desktop\proga\LB9\LB9_2\obj\Debug\net9.0\LB9_2.csproj.CoreCompileInputs.cache
+C:\Users\ку\Desktop\proga\LB9\LB9_2\bin\Debug\net9.0\LB9_2.exe
+C:\Users\ку\Desktop\proga\LB9\LB9_2\bin\Debug\net9.0\LB9_2.deps.json
+C:\Users\ку\Desktop\proga\LB9\LB9_2\bin\Debug\net9.0\LB9_2.runtimeconfig.json
+C:\Users\ку\Desktop\proga\LB9\LB9_2\bin\Debug\net9.0\LB9_2.dll
+C:\Users\ку\Desktop\proga\LB9\LB9_2\bin\Debug\net9.0\LB9_2.pdb
+C:\Users\ку\Desktop\proga\LB9\LB9_2\obj\Debug\net9.0\LB9_2.dll
+C:\Users\ку\Desktop\proga\LB9\LB9_2\obj\Debug\net9.0\refint\LB9_2.dll
+C:\Users\ку\Desktop\proga\LB9\LB9_2\obj\Debug\net9.0\LB9_2.pdb
+C:\Users\ку\Desktop\proga\LB9\LB9_2\obj\Debug\net9.0\LB9_2.genruntimeconfig.cache
+C:\Users\ку\Desktop\proga\LB9\LB9_2\obj\Debug\net9.0\ref\LB9_2.dll
